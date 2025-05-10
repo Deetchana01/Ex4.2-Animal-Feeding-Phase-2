@@ -32,8 +32,8 @@ Create a new DetectCollisions.cs script, then drag the scripts and add it to eac
 For all the animal prefabs and food in th inspector (below the layer ) drop down the override option and choose apply all.
 
 ## PROGRAM:
-## DEVELOPED BY: ALLEN JOVETH P
-## REG NO: 212223240007
+## DEVELOPED BY: DEETCHANA.S
+## REG NO: 212224220021
 ## SPAWN MANAGER:
 ```
 using System.Collections;
@@ -96,7 +96,8 @@ public class DetectCollider : MonoBehaviour
 ```
 ## OUTPUT:
 
-![alt text](AnimalFeeding_Output.png)
+![4b](https://github.com/user-attachments/assets/96a44a12-ab42-42ef-a8c0-aeb3359e276e)
+
 
 ## RESULT:
 Thus,Animal feeding game-Phase-2 using unity is developed successfully.
